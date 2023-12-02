@@ -1,4 +1,4 @@
-setwd("/Users/xsa5db/Documents/LiNGAM")
+
 ## Method Comparison
 ## PC; GES; ICA-LiNGAM; direct LiNGAM; psi-LiNGAM
 library(R.matlab)
