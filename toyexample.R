@@ -1,5 +1,4 @@
 #### Toy example
-setwd("/Users/xsa5db/Documents/LiNGAM")
 library(R.matlab)
 library(igraph)
 library(pheatmap)
